@@ -31,4 +31,6 @@
     return (interfaceOrientation != UIInterfaceOrientationPortraitUpsideDown);
 }
 
+- (IBAction)pressButton:(id)sender {
+}
 @end
